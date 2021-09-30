@@ -1,0 +1,4 @@
+{
+  "apiUrl": "https://airline-ticket-booking.herokuapp.com/api",
+  "stripePublicKey": "your Stripe Public key"
+}
